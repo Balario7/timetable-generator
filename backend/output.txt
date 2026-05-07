@@ -1,0 +1,12 @@
+﻿
+--- COURSES ---
+Name: maths, Duration: 1, Start: 09, End: 17
+Name: Maths, Duration: 1, Start: 09, End: 17
+Name: Physics, Duration: 1, Start: 09, End: 17
+Name: Computer Science, Duration: 2, Start: 09, End: 17
+Name: Maths, Duration: 1, Start: 09, End: 17
+Name: Physics, Duration: 1, Start: 09, End: 17
+Name: Computer Science, Duration: 2, Start: 09, End: 17
+
+--- CONSTRAINTS ---
+Working Days: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']
